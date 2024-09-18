@@ -15,6 +15,17 @@ public class ArrayListApp {
 		myCustomList.add("9");
 		myCustomList.add("10");
 		myCustomList.add("11");
+		myCustomList.add("12");
+		myCustomList.add("13");
+		myCustomList.add("14");
+		myCustomList.add("15");
+		myCustomList.add("16");
+		myCustomList.add("17");
+		myCustomList.add("18");
+		myCustomList.add("19");
+		myCustomList.add("20");
+		myCustomList.add("21");
+		myCustomList.add("22");
 		for (int i = 0; i < myCustomList.getSize(); i++) {
 			System.out.println(myCustomList.get(i));
 		}
